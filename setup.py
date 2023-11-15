@@ -7,7 +7,7 @@ with open(path.join(here, 'README.rst'), encoding='utf-8') as f:
     long_description = f.read()
 
 setup(
-    name='rpi-rf',
+    name='opi-rf',
     version='0.9.7',
     author='Micha LaQua',
     author_email='micha.laqua@gmail.com',
